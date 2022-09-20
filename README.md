@@ -17,6 +17,10 @@ https://fxsheikh.github.io/manunited/
 
 https://fxsheikh.github.io/scorekeeper/
 
+https://github.com/FxSheikh/APS6-Web-Developer/blob/main/mycarousel.js
+
+https://github.com/FxSheikh/APS6-Web-Developer/blob/main/scorekeeper.js
+
 <br />
 
 Wordpress and GRAV CMS Examples:
@@ -40,3 +44,5 @@ https://github.com/fxsheikh/pakistani-consulate/
 <br />
 
 Unit Testing Example:
+
+https://github.com/FxSheikh/APS6-Web-Developer/blob/main/tests.py
