@@ -23,6 +23,12 @@ https://github.com/FxSheikh/APS6-Web-Developer/blob/main/scorekeeper.js
 
 <br />
 
+My SQL scripting examples:
+
+https://github.com/FxSheikh/APS6-Web-Developer/tree/main/sql_scripting/
+
+<br />
+
 Wordpress and GRAV CMS Examples:
 
 https://fxsheikh.github.io/webtech/
