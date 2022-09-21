@@ -21,6 +21,8 @@ https://github.com/FxSheikh/APS6-Web-Developer/blob/main/mycarousel.js
 
 https://github.com/FxSheikh/APS6-Web-Developer/blob/main/scorekeeper.js
 
+https://github.com/FxSheikh/APS6-Web-Developer/blob/main/links_tester.js
+
 <br />
 
 My SQL scripting examples:
@@ -46,6 +48,12 @@ https://github.com/fxsheikh/php-command-line/
 Pakistan Consulate Project:
 
 https://github.com/fxsheikh/pakistani-consulate/
+
+<br />
+
+Major Project - Diploma:
+
+https://github.com/FxSheikh/php-forum/
 
 <br />
 
